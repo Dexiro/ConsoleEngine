@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<scene>
+
+<object name="test1" path="Images/test.bmp" x="100" y="100" w="0.6" h="0.6">
+	<component type="Move" x="0.1" y="0.0"/>
+</object>
+
+<object name="test2" path="Images/test.bmp" x="300" y="300" w="0.4" h="0.4">
+</object>
+
+</scene>
